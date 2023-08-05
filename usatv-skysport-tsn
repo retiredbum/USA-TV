@@ -27,6 +27,10 @@ http://107.150.62.146/tsn3/tracks-v1a1/mono.m3u8
 http://107.150.62.146/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TSN 5
 http://107.150.62.146/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRACKSIDE 1
+https://i.mjh.nz/trackside-1.m3u8|x-forwarded-for=202.89.4.222&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20 
+#EXTINF:-1,TRACKSIDE 2
+https://i.mjh.nz/trackside-2.m3u8|x-forwarded-for=202.89.4.222&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
 https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL
