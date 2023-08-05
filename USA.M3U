@@ -1,9 +1,32 @@
 #EXTM3U url-tvg=""
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN
 https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN2.png",ESPN 2
 https://cdn1-9p.teleuptv.net/91c031e0-ac52-40d0-b305-b3398ef4c338/tracks-v4a1/rewind-14400.m3u8
+#EXTINF:-1,NBA
+http://107.150.62.146/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY SPORT ARENA
+http://107.150.62.146/skyarena/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY SPORT F1
+http://107.150.62.146/f1_low/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY SPORT GOLF
+http://107.150.62.146/skygolf/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY SPORT MAINEVENT
+http://107.150.62.146/skymainevent/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY SPORT MIX
+http://107.150.62.146/skymix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SPORTNET
+http://107.150.62.146/sn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 1
+http://107.150.62.146/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 2
+http://107.150.62.146/tsn2tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 3
+http://107.150.62.146/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 
+http://107.150.62.146/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 5
+http://107.150.62.146/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
 https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL
