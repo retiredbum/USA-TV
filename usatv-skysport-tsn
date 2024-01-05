@@ -3,30 +3,6 @@
 https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN2.png",ESPN 2
 https://cdn1-9p.teleuptv.net/91c031e0-ac52-40d0-b305-b3398ef4c338/tracks-v4a1/rewind-14400.m3u8
-#EXTINF:-1,NBA
-http://107.150.62.146/nbatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKY SPORT ARENA
-http://107.150.62.146/skyarena/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKY SPORT F1
-http://107.150.62.146/f1_low/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKY SPORT GOLF
-http://107.150.62.146/skygolf/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://107.150.62.146/skymainevent/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKY SPORT MIX
-http://107.150.62.146/skymix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SPORTNET
-http://107.150.62.146/sn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 1
-http://107.150.62.146/tsn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 2
-http://107.150.62.146/tsn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 3
-http://107.150.62.146/tsn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 
-http://107.150.62.146/tsn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 5
-http://107.150.62.146/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRACKSIDE 1
 https://i.mjh.nz/trackside-1.m3u8|x-forwarded-for=202.89.4.222&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20 
 #EXTINF:-1,TRACKSIDE 2
